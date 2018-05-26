@@ -1,0 +1,30 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signed data from message box
+
+Session Key:
+    TN4augsedpQv5oc2RB/D6gBPKbeJunnPXDzmbiIXsusG6ade3UiQc9H/JMdo
+    u928P1Ebuzq3B9/m6CDS7htmldiu0prc8Y7JBfZ7woZDMQTSGQ2uOOTOgKGI
+    XT1FU3xuIYishRcwrKNFq3G1QkZUQePBgw3Ovvg7AAhiM4aZE/XlKkOeRkAO
+    bXDuUIHEa1t0SQJ53kpeWO2bUKsYA9XoJepWpvLhMsErFIZ6XOTtWrZ7wXgs
+    2TEwup6RGVVxkPSJ51AV3f7wOPgwmjuCQQ2StRR6h79zVUU9CHDcJ9raqfi8
+    daK3m32ZF2WpSFVFxe8kbjM1/WrQoGNPSlSuLrq4DA==
+
+AES Tag:
+    wPaL6+eKz+RMTCvFq/IGBg==
+
+NONCE:
+    81ukoIgL6dfsX8z6GT6J2Q==
+
+Encrypted content:
+    nhzZoKFdm0Kjlwa+Df+aYZsmSraoER7ey47JgFEGy1UmhiPcPbA92GDEPE3K
+    9H4exHEVmwaHh7wpi+hZ9kGivwBucQWZMfpri47HlxdWR5tmssJQIDo=
+
+Method:
+    RSA
+    AES
+
+Original File:
+    /home/m/projects/diplomski/digital-signature/trreca_dob.txt
+
+---END OS2 CRYPTO DATA---

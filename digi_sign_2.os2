@@ -1,0 +1,23 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signed data from message box
+
+Method:
+    RSA
+    SHA3-384
+
+Key length:
+    384
+
+File:
+    /home/m/projects/diplomski/digital-signature/envelope_2.os2
+
+Signature:
+    GR1YtJEqXtxQvpcALMv8FwBbbWGDi7TEDtQcqS/qPvXM/bPnG4NDUGtb/Anc
+    9ElqJwRp3ueZCzOYUe5Hb3Jan7VBdd7Dh1apiEvOaOThsKtOFUj13Eco0TtB
+    y4nEjq10rUXpjMLkeo12NH0n5TpbOja9ztDXQWHJyuntTOSs2RNwmkUQpiL6
+    Izp52+sxxca945g2yGbkVTZNINkcugbZgGgCFd7peLk9MoxXIYYlT4qsyP5j
+    s8x+eZR0HyKircd/QCcQUrkJg7El8FwQDAB/0px2R3QPxAXUoE1OZEhcD/il
+    CcfmidKt7EVnfzfLkIC5gvfkUMmvycentNSNFyy0Yg==
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,29 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signed data from message box
+
+Session Key:
+    ImRvG8NgZOye5jWzifArrq86Tf8AAAp31sUKZ55f9i74PpYnaZyNTgjO71ul
+    tPbavuSX7VrNeOiJQU23ZSTu+OTKYDVa6X9Sy1NcXFB0Fo0xYsPgwFEUw4YQ
+    WL2Iip6nfzSTISW3Iz5xz3QDV9gnPz+6SfeY8ykkJHAMZyzVbgSyGrJW4WxL
+    /lvEpyBURDDBE3jThjnqYDvNwUMTwYoJPeDNRG+RChpbZtRvULYtmYwDztr6
+    o0kT9K81dBDCEisC1XfyEp0Z9v+QXag7KYPGx4IGZ1aKhF/XkT2T2diuKFgP
+    BLpLmlbM8a0X8ovUbxa/d0/Sr5rf9ELagyAOElct9w==
+
+AES Tag:
+    bhL0rhOFIABGserdnxyw4Q==
+
+NONCE:
+    ZVWfedsnCfyNOL/FKZGnAw==
+
+Encrypted content:
+    U2/O06umLgI8QyBzRXh6GdpzCYc6W40=
+
+Method:
+    RSA
+    AES
+
+Original File:
+    dummy.txt
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,23 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signed data from message box
+
+Method:
+    RSA
+    SHA-384
+
+Key length:
+    384
+
+File:
+    dummy.txt
+
+Signature:
+    eAbE2z6Eq6PFwu1gAYodfYcCBm4/3c+etI3eAaDaEdFsS4oj3WjRfsbZVzPV
+    xrdl1mMK7F99NTfXW/j9+3a4Pij0ug5ZH4Ea5dLzymvkcT5ryied21x/YQ4Q
+    Mpa4HJInLjNxEL2dbFqgXFnHQc06/6I71iuEqV7wsf1WSBeb25C61aP6qhTK
+    pgLKDnznjusRo+8few5El/h7+9K2FL0XX5hGgsWHdWxKuIjJ4CoMbVDysB9N
+    ZgmN3TupELBJiTuVNLxLXW/mGWXZ5JGIn/unaMXOsGD0jfKb/epkO2GwZZT/
+    gM4IvnYq06QICABQDpEzgdiQnZ7Sz/UxQvJnaHxqZw==
+
+---END OS2 CRYPTO DATA---
